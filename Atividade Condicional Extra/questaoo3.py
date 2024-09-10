@@ -1,4 +1,4 @@
-valor = int(input("Digite a sua idade: "))
+valor = int(input("Digite a sua idade:  "))
 
 if valor<12:
     print(f"Você é uma criança \n")

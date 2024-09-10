@@ -6,4 +6,4 @@ if parcela>12:
     valorP= valorP+6
     print(f"o valor final da compra foi de R$: {valor} \n Em parcelas de R$: {valorP :.2f}")
 else:
-    print(f"o valor final da compra foi de R$: {valor} \n Em parcelas de R$: {valorP :.2f}")
+    print(f"o valor final da compra foi de R$: {valor} \n Em parcelas de R$: {valorP :.2f} ")

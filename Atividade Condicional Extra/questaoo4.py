@@ -1,4 +1,4 @@
-salario = int(input ("Informe o salário do funcionário: R$" ))
+salario = int(input ("Informe o salário do funcionário R$:  "))
 
 if salario <= 1900:
     imposto = 0

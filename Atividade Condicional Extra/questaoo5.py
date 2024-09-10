@@ -1,5 +1,5 @@
 hora = float(input("Informe a carga horária do funcionário: "))
-valorH= float(input("Informe o valor hora: "))
+valorH= float(input("Informe o valor hora:  "))
 
 if hora>40:
     extra = hora-40

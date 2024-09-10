@@ -1,4 +1,4 @@
-numero = int(input("Digite um número de 0 a 100: "))
+numero = int(input("Digite um número de 0 a 100:  "))
 
 if 0 <= numero <= 25:
         print("O número está na faixa de 0 a 25.")
